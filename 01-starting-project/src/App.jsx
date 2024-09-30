@@ -13,9 +13,7 @@ function App() {
   // let tabContent = "please click a button!!";
 
   function handleSelect(selectedButton) {
-    // tabContent = selectedButton;
     setSelectedTopic(selectedButton);
-    // console.log(tabContent);
   }
 
   return (
